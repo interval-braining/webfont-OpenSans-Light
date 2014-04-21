@@ -4,7 +4,13 @@
     "OpenSans-Light.png",
     "README.md"
   ],
-  "main": ["dist/*.*"],
+  "main": [
+    "dist/OpenSans-Light.css",
+    "dist/OpenSans-Light.eot",
+    "dist/OpenSans-Light.svg",
+    "dist/OpenSans-Light.ttf",
+    "dist/OpenSans-Light.woff"
+  ],
   "name": "webfont-OpenSans-Light",
-  "version": "0.0.1"
+  "version": "0.1.0"
 }
