@@ -5,12 +5,12 @@
     "README.md"
   ],
   "main": [
-    "dist/OpenSans-Light.css",
-    "dist/OpenSans-Light.eot",
-    "dist/OpenSans-Light.svg",
-    "dist/OpenSans-Light.ttf",
-    "dist/OpenSans-Light.woff"
+    "dist/css/OpenSans-Light.css",
+    "dist/fonts/OpenSans-Light.eot",
+    "dist/fonts/OpenSans-Light.svg",
+    "dist/fonts/OpenSans-Light.ttf",
+    "dist/fonts/OpenSans-Light.woff"
   ],
   "name": "webfont-OpenSans-Light",
-  "version": "0.2.0"
+  "version": "1.0.0"
 }
